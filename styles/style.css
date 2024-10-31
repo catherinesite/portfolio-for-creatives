@@ -333,7 +333,7 @@ a:active {
 .hero-headline-wrapper {
   display: flex;
   flex-direction: column;
-  flex: 1;
+  flex: .5;
   align-items: center;
   justify-content: center;
   padding: 2rem 4rem;
@@ -702,7 +702,7 @@ a:active {
   }
 
   .hero {
-    min-height: 100vh;
+    min-height: 80vh;
   }
 
   .hero-headline-wrapper {
