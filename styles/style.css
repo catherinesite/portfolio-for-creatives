@@ -340,6 +340,10 @@ a:active {
   text-align: center;
 }
 
+.hero-gradient-animation{
+  min-height: 40vh;
+}
+
 .hero-icon {
   font-size: 4rem;
 }
