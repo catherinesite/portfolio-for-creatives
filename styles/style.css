@@ -333,14 +333,14 @@ a:active {
 .hero-headline-wrapper {
   display: flex;
   flex-direction: column;
-  flex: .5;
+  flex: 1;
   align-items: center;
   justify-content: center;
   padding: 2rem 4rem;
   text-align: center;
 }
 
-.hero-gradient-animation{
+.hero-gradient-animation {
   min-height: 60vh;
 }
 
