@@ -379,7 +379,7 @@ a:active {
 /* Padding around work grid and project page */
 .portfolio,
 .project-wrapper {
-  padding: 0.25rem;
+  padding: 2rem;
 }
 
 /* Defining the work page grid */
@@ -555,6 +555,7 @@ a:active {
   display: flex;
   align-items: center;
   justify-content: center;
+  padding: 1rem;
 }
 
 .large-emoji-placeholder {
@@ -643,27 +644,6 @@ a:active {
 
 /*
 
-██████  ██       █████  ██    ██ 
-██   ██ ██      ██   ██  ██  ██  
-██████  ██      ███████   ████   
-██      ██      ██   ██    ██    
-██      ███████ ██   ██    ██    
-*/
-
-.play-page {
-  display: grid;
-  place-items: center;
-}
-
-.play-page-inner-container {
-  text-align: center;
-}
-
-.play-page-title {
-  color: var(--accent-color);
-}
-
-/*
 
 ███    ███ ███████ ██████  ██  █████       ██████  ██    ██ ███████ ██████  ██ ███████ ███████ 
 ████  ████ ██      ██   ██ ██ ██   ██     ██    ██ ██    ██ ██      ██   ██ ██ ██      ██      
@@ -785,7 +765,7 @@ a:active {
   /* Padding around work grid and project page */
   .portfolio,
   .project-wrapper {
-    padding: 0.5rem;
+    padding: 3rem;
   }
 
   /* Project Page Flex Direction on Large Devices */
