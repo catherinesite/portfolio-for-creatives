@@ -548,6 +548,12 @@ a:active {
   flex-direction: column;
 }
 
+.project-image img {
+  display: block;
+  object-fit: contain;
+  border-radius: 50px;
+}
+
 .project-image {
   width: 100%;
   min-height: 50vh;
